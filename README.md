@@ -1,4 +1,4 @@
-# Backend Kedaton Komputer with Express.js and MongoDB
+# Backend DCC Komputer with Express.js and MongoDB
 
 ## Requirements
 For running this project please install nodejs and mongodb.
