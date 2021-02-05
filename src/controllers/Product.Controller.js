@@ -4,7 +4,7 @@ class ProductController {
   
   async getAllProduct(req, res) {
     const page = req.query.page ? Number(req.query.page) : 1
-    const limit = req.query.limit ? Number(req.query.limit) : 10
+    const limit = req.query.limit ? Number(req.query.limit) : 1000
     const search = req.query.search ? req.query.search : ''
     const order_by  = req.query.order_by ? req.query.order_by : 'desc'
     const sort_by   = req.query.sort_by ? req.query.sort_by : 'createdAt' 
