@@ -1,0 +1,6 @@
+{
+    "androidVersion" : "1.0.1",
+    "androidVersionCode" : 1,
+    "minimumVersion": 1,
+    "playstore": "https://play.google.com/store/apps/details?id=id.co.kedaton.app"
+  }

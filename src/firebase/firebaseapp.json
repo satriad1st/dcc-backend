@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kedaton-komputer",
+  "private_key_id": "b02244095fae5295d41a4b6887b0397f4148e4c4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1C43pae1ce5cX\ns60IdTHF3T2XcLCVAANk5sKZAW6cBwqINya9u6wVZbUl8Qka4529IjLcIu7QJ+VQ\n51AmmjeRiqldpFelYfTpLeEnKgK+y+A9H1+Yhj/3LgIWwR4l/0UBQ8PQ2z08fuaB\nZ6ZF2j0xK7RpL2LIgkkG818pvt3h+Wa+mzCyGuHTSmY6p7h3MmfIFvSasYSJGX0w\nAcFYjQFANWNE2mHTSIRMrhk6gTpIKRY+6G+yKPVa7dmdGLCMAHlZUrkkbLMzhml9\nuslBZftbeT7sZhQcoVWaTcaY/RoXNQXlN5cV0mraFNizs3WlDBc52etGoMgFagNh\n7V5wn6PVAgMBAAECggEAIJs4X5PBmWCz7WOhlA6hXHi0ZVA5KVizg8pwvUROAsFc\n4vwF2PGSNFdZSQBQirx4Vg4w+Uc8WhZ5XTkPzSgEvoxp5PDajTFnfdCSxq4xCOJo\nnDGIksyI/DBX1XfKAX9oUuo8u+KkdH8JbkB36Ig98ZtktnX/lUursdoGp1rWFOK7\ntHpKICTSfDY7fXEmmI23epX5JWUb5XTuotn6A1DV021lPi7jx0LJXCMtYQ49QMKn\n+T5x3sZOa8CoCbuJD5lrXw11/Fxad0ks3JFUnn5d/4TRyJgY7V6VAqcYgNZvQLtO\n6eIXaJ25/6Evm9YGLNXu2GDo6yzW13Y8ubRxvbV2+QKBgQDjsheyI/NK+y2QlYsq\npPOVl+U0/dv+bCJJTdfgb3RZrUbvmkIbLzejx4msUYdsjVia8z3efFPxQmbSVrm3\nLpGeM73aGUnUtCNHOMVGy3vQlxjbnPq/wUa4OjNSccrqPuFKikQ5HUsnda7oRzsB\nX/14t90f7Jon0oQIjHP/o1F3CQKBgQDLjOmMp5B6xcUZMP8qJpY/m5q79JqLmrz0\newOSyp2khsD0oItnhgJSNbHkJTg9SW0zakgwayqzCDibEjflJH04XdG1OcVbCFE7\nW7N9Zmmv937yTqsLteDDcfvLA2qC2FIBIqKc4WkTPu/5Jy1JFa5BtzkOWNJs8PqB\nHIM2fWCNbQKBgBltrzXGzAnoqTsHaGZXy5g+QWu8mg/81YtoNR6sc8r8Dfr+ODm+\n+TDCPP7QkBYwZt/PIG6zZdCAwOjmpJDvk3Weg6pSvqsRfwsaLPXuDaLK7QzBqEM3\n+4Thgw/HA4lLgm+Hp3zVZ6o9e04XfmB17uHHbtt82e5ulS47OU0oWRW5AoGAbrDP\nZLzOteUMnPlnGU3okOiWibWnwVlBfhXTSKVEeu8IyT7w8DgQ1RH8DhwrbDCc4MPg\nQ+xTSQ6kcbfDi6l/KwLiApJK/4kTW5svjXb+7EFD2JLtMy4R71bx3WGbL1Jhrdpe\n4b82u8+TAkPKvZ67p2Ly9RlaPQICx+lwdVZTBjUCgYAtwUXo712AUg6zngMwJPZA\n9k42l80cZxTBHRWy2zNQApLH35CseENKUDYTtdDbyqBQyVBBJDy+xwabn2AxIPmU\nZvhT/bChmysOKyyu68guq7qLj9jXiMwefC8XqQ35BZCaD8CwPj8Fw7dP3lns55n9\nul8h3n3/IhhHBYQBTDaN+Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fd5zk@kedaton-komputer.iam.gserviceaccount.com",
+  "client_id": "114612250868943079957",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fd5zk%40kedaton-komputer.iam.gserviceaccount.com"
+}
