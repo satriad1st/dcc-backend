@@ -8,7 +8,7 @@ module.exports = {
         NODE_ENV: 'development',
         BASE_URL_HOST_DEV: 'localhost:4000',
         MONGODB_URL:
-          'mongodb+srv://kedaton:komputer@cluster0.qp1vq.mongodb.net/kedaton_komputer',
+          'mongodb+srv://dcc:rahasia@cluster0.vdzld.mongodb.net/dcc_komputer',
         JWT_KEY: 'CoronaWillGone',
         OTP_PROVIDER_DEFAULT: 'exotel',
         NEXMO_API_SECRET: 'ePy700aFA2bY61Jw',
@@ -19,9 +19,9 @@ module.exports = {
       env_production: {
         NODE_ENV: 'production',
         BASE_URL_HOST_DEV:
-          'https://kedaton-komputer.herokuapp.com/',
+          'https://dcc-training.herokuapp.com/',
         MONGODB_URL:
-          'mongodb+srv://kedaton:komputer@cluster0.qp1vq.mongodb.net/kedaton_komputer',
+          'mongodb+srv://dcc:rahasia@cluster0.vdzld.mongodb.net/dcc_komputer',
         JWT_KEY: 'CoronaWillGone',
         OTP_PROVIDER_DEFAULT: 'nexmo',
         NEXMO_API_SECRET: 'ePy700aFA2bY61Jw',
